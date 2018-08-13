@@ -1,2 +1,2 @@
-new file to test pull
+changing file to test pull to resolve conflicts
 going to test merge
