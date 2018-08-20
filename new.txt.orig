@@ -6,11 +6,12 @@ continue merge test
 
 
 <<<<<<< HEAD
-try to chnage these files .....lcal version
-
-
-
-Another line added
-=======
 try to chnage these files .....remote version
->>>>>>> 040d48fa1457309626e16246f850236e6f4d94a0
+Another local to keep
+=======
+try to chnage these files .....remote version to keeep 
+Another remote to discard
+
+
+
+>>>>>>> 50ad9580aba72032095d21219ede522b05f4a9b8
