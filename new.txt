@@ -5,4 +5,8 @@ going to test merge
 continue merge test
 
 
-try to chnage these files .....remote version
+try to chnage these files .....remote version to keeep 
+Another remote to discard
+
+
+
