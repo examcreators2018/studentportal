@@ -5,7 +5,19 @@ going to test merge
 continue merge test
 
 
+<<<<<<< HEAD
 Adding line to test merge 11.56am
+=======
+try to chnage these files .....remote version
+Another local to keep...........Upating on 1st sep by exam19842018
+===
+try to chnage these files .....remote version to keeep 
+Another remote to discard
+>>>>>>> f73455522d49262712bff36b753d6c5b58db3177
+
+
+A new line added on 1 Sep by exam19842018 end
+
 
 
 
