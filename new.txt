@@ -5,13 +5,7 @@ going to test merge
 continue merge test
 
 
-<<<<<<< HEAD
-try to chnage these files .....remote version
-Another local to keep
-=======
-try to chnage these files .....remote version to keeep 
-Another remote to discard
+Adding line to test merge 11.56am
 
 
 
->>>>>>> 50ad9580aba72032095d21219ede522b05f4a9b8
