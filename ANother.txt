@@ -1,3 +1,5 @@
 file changed only in branch
 
 adding another line to test rebase
+
+Adding another line in master branch to see diff with merge than rebase
