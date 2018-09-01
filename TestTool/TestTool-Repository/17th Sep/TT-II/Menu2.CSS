@@ -1,0 +1,246 @@
+.navbar-inverse {
+	background-color: #080808
+}
+
+.navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>li>a:hover,
+	.navbar-inverse .navbar-nav>li>a:focus {
+	background-color: #669EDE
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.open>a,
+	.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover,
+	.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover,
+	.navbar-inverse .navbar-nav>.open>a:focus {
+	background-color: #ABABAB
+}
+
+.dropdown-menu {
+	background-color: #FFFFFF
+}
+
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+	background-color: #669EDE
+}
+
+.navbar-inverse {
+	background-image: none;
+}
+
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+	background-image: none;
+}
+
+.navbar-inverse {
+	border-color: #080808
+}
+
+.navbar-inverse .navbar-brand {
+	color: #F2F2F2
+}
+
+.navbar-inverse .navbar-brand:hover {
+	color: #FFFFFF
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #F5F5F5
+}
+
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus
+	{
+	color: #FFFFFF
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.open>a,
+	.navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus
+	{
+	color: #FFFFFF
+}
+
+.navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus
+	{
+	color: #B5B5B5
+}
+
+.dropdown-menu>li>a {
+	color: #333333
+}
+
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+	color: #FFFFFF
+}
+
+.navbar-inverse .navbar-nav>.dropdown>a .caret {
+	border-top-color: #EAFF96
+}
+
+.navbar-inverse .navbar-nav>.dropdown>a:hover .caret {
+	border-top-color: #FFFFFF
+}
+
+.navbar-inverse .navbar-nav>.dropdown>a .caret {
+	border-bottom-color: #EAFF96
+}
+
+.navbar-inverse .navbar-nav>.dropdown>a:hover .caret {
+	border-bottom-color: #FFFFFF
+}
+
+.navbar .navbar-nav {
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+	text-align: center;
+}
+
+.container {
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 6px;
+	padding-right: 6px;
+}
+
+.container:before, .container:after {
+	content: " ";
+	display: table;
+}
+
+.container:after {
+	clear: both;
+}
+
+@media ( min-width : 768px) {
+	.container {
+		width: 732px;
+	}
+}
+
+@media ( min-width : 992px) {
+	.container {
+		width: 952px;
+	}
+}
+
+@media ( min-width : 1200px) {
+	.container {
+		width: 1152px;
+	}
+}
+
+.jumbotron1 {
+	padding: 30px 15px;
+	margin-bottom: 10px;
+	font-size: 18px;
+	font-weight: 100;
+	line-height: 2.1428571435;
+	color: inherit;
+	background-color: #eee;
+}
+
+.jumbotron {
+	padding: 30px 15px;
+	margin-bottom: 30px;
+	color: inherit;
+	background-color: #eee;
+}
+
+.jumbotron h1, .jumbotron .h1 {
+	color: inherit;
+}
+
+.jumbotron p {
+	margin-bottom: 15px;
+	font-size: 18px;
+	font-weight: 50;
+}
+
+.jumbotron>hr {
+	border-top-color: #d5d5d5;
+}
+
+.container .jumbotron, .container-fluid .jumbotron {
+	border-radius: 6px;
+}
+
+.jumbotron .container {
+	max-width: 100%;
+}
+
+.bs-example {
+	margin: 20px;
+	margin-top: 10px;
+}
+
+.spacer {
+	margin-top: 20px; /* define margin as you see fit */
+}
+
+.spacerleft {
+	margin-left: 20px; /* define margin as you see fit */
+}
+
+.takeHeight {
+	clear: both;
+	height: 100px;
+	width: auto;
+}
+
+.selectpicker {
+	style: btn-info;
+	size: 4;
+}
+
+.foot-fixed-bottom {
+	bottom: 5;
+	display: block;
+	left: 0;
+	margin-bottom: 0;
+	position: fixed;
+	right: 0;
+	z-index: 1030;
+}
+
+.foot-fixed-bottom .container {
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 2px;
+}
+
+.foot-fixed-bottom hr {
+	border-image: none;
+	border-style: solid none;
+	border-width: 1px 0;
+	margin: 0 0 5px;
+	width: 100%;
+}
+
+.foot-fixed-bottom p {
+	color: rgb(255, 255, 255);
+	font-size: 14px;
+	margin: 0 12px 15px;
+}
+
+tr.highlightRow {
+	background-color: brown;
+	cursor: pointer;
+}
+
+.selected {
+	background-color: brown;
+	color: #FFF;
+}
+
+table.table.table-striped tr.found td {
+	background-color: #CECBCB;
+}
+
+body .modal-admin {
+	/* new custom width */
+	width: 750px;
+	/* must be half of the width, minus scrollbar on the left (30px) */
+	margin-left: -375px;
+}

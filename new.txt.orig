@@ -1,0 +1,17 @@
+changing file to test pull to resolve conflicts
+new file to test pull 234
+going to test merge
+
+continue merge test
+
+
+<<<<<<< HEAD
+try to chnage these files .....remote version
+Another local to keep
+=======
+try to chnage these files .....remote version to keeep 
+Another remote to discard
+
+
+
+>>>>>>> 50ad9580aba72032095d21219ede522b05f4a9b8
