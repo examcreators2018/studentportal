@@ -5,3 +5,7 @@ adding another line to test rebase
 Adding another line in master branch to see diff with merge than rebase
 
 Done some more changes
+
+
+
+Nove details 
